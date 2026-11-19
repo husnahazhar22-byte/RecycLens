@@ -66,3 +66,30 @@ Screenshots of the homepage, image upload interface, recognition result and recy
 Developed as a personal learning and portfolio project to explore the integration of artificial intelligence, computer vision and web application development.
 
 **Recycle smarter. Make every item count.**
+
+## 📸 UI/UX Design Preview
+
+Here are some of the interface designs for RecycLens.
+
+### Homepage
+![RecycLens Homepage](screenshots/homepage.png)
+
+### Image Upload
+![Image Upload Page](screenshots/upload-page.png)
+
+### Recognition Result
+![Recognition Result](screenshots/recognition-result.png)
+
+### Recycling Centres
+![Recycling Centres](screenshots/recycling-centres.png)
+
+### Collector Connection
+![Collector Page](screenshots/collector-page.png)
+
+## 🎨 UI/UX Design
+
+Explore the design documentation and interactive prototype:
+
+- [UI/UX Design Documentation](ui-ux-design/README.md)
+- [Project Documentation](documentation/README.md)
+- [View Figma Prototype](PASTE-YOUR-FIGMA-LINK-HERE)
