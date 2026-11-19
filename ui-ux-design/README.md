@@ -21,4 +21,4 @@ RecycLens is designed to provide a simple and accessible recycling experience th
 
 ## Prototype
 
-[[Figma prototype link here]](https://www.figma.com/make/u7RijzAIkO6D6IKAL4X0jW/Make-RecycLens-Fully-Interactive?t=3CKuFZ7zYmwCkTZ2-1)
+[View RecycLens Figma Prototype](https://www.figma.com/make/u7RijzAIkO6D6IKAL4X0jW/RecycLens-Website?code-node-id=0-6&p=f&t=0S4W56rgCRFYv3eV-0&fullscreen=1)
