@@ -92,4 +92,4 @@ Explore the design documentation and interactive prototype:
 
 - [UI/UX Design Documentation](ui-ux-design/README.md)
 - [Project Documentation](documentation/README.md)
-- [View Figma Prototype]([PASTE-YOUR-FIGMA-LINK-HERE](https://www.figma.com/make/u7RijzAIkO6D6IKAL4X0jW/RecycLens-Website?code-node-id=0-6&p=f&t=cq0BKkgkA0E5pO9t-0&fullscreen=1))
+- [View Figma Prototype]((https://www.figma.com/make/u7RijzAIkO6D6IKAL4X0jW/RecycLens-Website?code-node-id=0-6&p=f&t=cq0BKkgkA0E5pO9t-0&fullscreen=1))
